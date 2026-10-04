@@ -88,14 +88,6 @@ A local AI-powered customer support system using **RAG, Ollama and ChromaDB** to
 
 ---
 
-### 🔍 Codebase Q&A with RAG
-
-An AI-powered developer assistant designed to understand a codebase using **README files, documentation, comments and source-code context**.
-
-**Tech:** Node.js · RAG · Embeddings · Vector Database · LLMs
-
----
-
 ## 🏆 Achievements
 
 ### 🥇 1st Place — Vision AI + RAG Hackathon
